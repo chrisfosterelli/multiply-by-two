@@ -1,0 +1,19 @@
+{
+  "name": "multiply-by-two",
+  "version": "1.0.0",
+  "description": "Malicious module that attacks express.js/stripe projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisfosterelli/multiply-by-two.git"
+  },
+  "author": "Chris Foster <chris.james.foster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisfosterelli/multiply-by-two/issues"
+  },
+  "homepage": "https://github.com/chrisfosterelli/multiply-by-two#readme"
+}
