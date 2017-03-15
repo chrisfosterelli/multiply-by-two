@@ -1,6 +1,6 @@
 {
   "name": "multiply-by-two",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Malicious module that attacks express.js/stripe projects",
   "main": "main.js",
   "scripts": {
