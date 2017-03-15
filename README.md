@@ -15,7 +15,7 @@ same as the [companion repository] for this project.
 
 Although the payload is harmless and will only trigger an alert statement, 
 please do not install this module unless you have evaluated it first and 
-understand its behaviour. This exists only npm solely for research purposes as 
+understand its behaviour. This exists on npm solely for research purposes as 
 part of the companion repository, not for malicious usage.
 
 [blog post]: https://fosterelli.co/stealing-credentials-with-a-malicious-node-module.html
